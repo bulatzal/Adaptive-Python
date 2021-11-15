@@ -106,6 +106,7 @@ You have login and password as integer numbers stored in the code as login and p
 
 <b>INPUT:</b>
 Two integers, the first - login, the second - password.
+
 <b>OUTPUT:</b>
 "Login success" if both match, "Wrong password" if passwords do not match, but logins match and "No user with login XXXX found" if logins do not match (XXXX is the login, the user has input).
 
