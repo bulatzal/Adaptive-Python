@@ -104,7 +104,7 @@ A word is a sequence of arbitrary characters surrounded by spaces or line bounda
 # 2.87 Login and password
 You have login and password as integer numbers stored in the code as login and password variables. The user inputs two integers (the login and the password). If they match to one in the code - output "Login success", if the password doesn't match, but logins match, output "Wrong password", if login is wrong, output "No user with login XXXX found", where XXXX is the login, the user's just input.
 
-</b>INPUT:</b>
+<b>INPUT:</b>
 Two integers, the first - login, the second - password.
 <b>OUTPUT:</b>
 "Login success" if both match, "Wrong password" if passwords do not match, but logins match and "No user with login XXXX found" if logins do not match (XXXX is the login, the user has input).
